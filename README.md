@@ -1,2 +1,2 @@
 # git
-Repositório para testes do Git
+Repositório para testes no Git
