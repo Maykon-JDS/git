@@ -1,3 +1,7 @@
 #Ignora o arquivo 'arquivo-ignorado.txt'
 arquivo-ignorado.txt
 
+#Ignora o diretório '/ignored-directory'
+/ignored-directory/
+
+/ignored-directory*/
