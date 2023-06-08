@@ -11,3 +11,5 @@ Modificação de arquivo já rastreado. | (diff)
 Modificação de arquivo já rastreado. | (diff / --staged / --cached)
 
 Commit da diferença do arquivo atual.
+
+Modificação para testar o Editor Vim.
