@@ -5,3 +5,5 @@ arquivo-ignorado.txt
 /ignored-directory/
 
 /ignored-directory*/
+
+/log
