@@ -7,3 +7,7 @@ arquivo-ignorado.txt
 /ignored-directory*/
 
 /log
+
+*.json
+
+/node_modules
