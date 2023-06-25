@@ -17,3 +17,5 @@ Modificação para testar o Editor Vim.
 Modificação pelo github
 
 Teste do Commitzen
+
+Revisão git commit
