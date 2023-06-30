@@ -19,3 +19,5 @@ Modificação pelo github
 Teste do Commitzen
 
 Revisão git commit
+
+Modificação na branch main | diferença de versão
