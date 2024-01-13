@@ -22,4 +22,13 @@ Revisão git commit
 
 Modificação na branch main | diferença de versão
 
-Teste do Three way merge
+Teste do Three way mergeb v
+asd
+fasdf
+
+a
+dsf
+asd
+f
+asdf
+asdf
