@@ -1,34 +1,15 @@
-# git
-Repositório para testes no Git
+    Resumo curto (50 caracteres ou menos), com maiúsculas.
 
-Modificação de arquiva já rastreado.
+    Mais texto explicativo, se necessário. Desenvolva por 72 caracteres aproximadamente. 
 
-Outra modificação no arquiva, porem, desta vez, o arquivo se encontra na Working Area
-enquanto um outro arquivo se encontra na Stage Area.
+    Em alguns contextos, a primeira linha é tratada como o assunto do email e o resto do texto como o corpo. 
 
-Modificação de arquivo já rastreado. | (diff)
+    A linha em branco separando o assunto do corpo é crítica (a não ser que você omita o corpo inteiro); ferramentas como _rebase_ irão te confundir se você unir as duas partes.
 
-Modificação de arquivo já rastreado. | (diff / --staged / --cached)
+    Escreva sua mensagem de commit no imperativo: "Consertar o bug" e não "Bug consertado" ou "Conserta bug". Esta convenção combina com as mensagens de commit geradas por comandos como `git merge` e `git revert`.
 
-Commit da diferença do arquivo atual.
-
-Modificação para testar o Editor Vim.
-
-Modificação pelo github
-
-Teste do Commitzen
-
-Revisão git commit
-
-Modificação na branch main | diferença de versão
-
-Teste do Three way mergeb v
-asd
-fasdf
-
-a
-dsf
-asd
-f
-asdf
-asdf
+    Parágrafos seguintes veem depois de linhas em branco.
+    - Marcadores são ok, também
+    - Normalmente um hífen ou asterisco é usado para o marcador, seguido de um
+único espaço, com linhas em branco entre eles, mas os protocolos podem variar aqui
+    - Utilize recuos alinhados
