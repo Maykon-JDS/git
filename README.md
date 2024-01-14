@@ -13,3 +13,15 @@
     - Normalmente um hífen ou asterisco é usado para o marcador, seguido de um
 único espaço, com linhas em branco entre eles, mas os protocolos podem variar aqui
     - Utilize recuos alinhados
+
+
+    as
+    df
+    asdf
+    a
+    sdf
+    a
+    sdf
+    asd
+    f
+    asdf
